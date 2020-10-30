@@ -8,7 +8,7 @@
 Burada VS hesabı okul mailiyle açılmıştır.
 > bakkaya14@posta.pau.edu.tr
 ### Docker ve Docker Kavramları
-[Docker ve Docker Kavramları](https://www.youtube.com/watch?v=pGYAg7TMmp0)
+[Docker ve Docker Kavramları](https://www.youtube.com/watch?v=pGYAg7TMmp0)\
 **Dökümantasyondan alınmıştır.**  \
 Docker, uygulamaları geliştirmek, göndermek ve çalıştırmak için açık bir platformdur. Docker, yazılımlarınızı hızlı bir şekilde teslim edebilmeniz için uygulamalarınızı altyapınızdan ayırmanıza olanak tanır. Docker ile altyapınızı, uygulamalarınızı yönettiğiniz şekilde yönetebilirsiniz. Docker’ın kodu gönderme, test etme ve hızlı bir şekilde dağıtma metodolojilerinden yararlanarak, kod yazma ile onu üretimde çalıştırma arasındaki gecikmeyi önemli ölçüde azaltabilirsiniz.
 - Container\
